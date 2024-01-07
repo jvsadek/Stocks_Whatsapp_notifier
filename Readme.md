@@ -1,10 +1,10 @@
 # Stocks WhatsApp (Meta) notifier
 
-![Contributors](https://img.shields.io/github/contributors/jvsadek/Coursera-Machine-Learning?style=plastic)
-![Forks](https://img.shields.io/github/forks/jvsadek/Coursera-Machine-Learning)
-![Stars](https://img.shields.io/github/stars/jvsadek/Coursera-Machine-Learning)
-![Licence](https://img.shields.io/github/license/jvsadek/Coursera-Machine-Learning)
-![Issues](https://img.shields.io/github/issues/jvsadek/Coursera-Machine-Learning)
+![Contributors](https://img.shields.io/github/contributors/jvsadek/Stocks_Whatsapp_notifier?style=plastic)
+![Forks](https://img.shields.io/github/forks/jvsadek/Stocks_Whatsapp_notifier)
+![Stars](https://img.shields.io/github/stars/jvsadek/Stocks_Whatsapp_notifier)
+![Licence](https://img.shields.io/github/license/jvsadek/Stocks_Whatsapp_notifier)
+![Issues](https://img.shields.io/github/issues/jvsadek/Stocks_Whatsapp_notifier)
 
 ## 
 ### Description
