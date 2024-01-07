@@ -1,0 +1,13 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Stocks-hear</title>
+</head>
+<body>
+<h1>The Multiple Images</h1>
+    {% for i in imagelist %}
+    <object data = "{{ url_for('static', filename=i)}}">
+    {% endfor %}
+</body>
+</html>
